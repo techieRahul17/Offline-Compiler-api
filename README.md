@@ -1,4 +1,4 @@
-# Offline Compiler API 🚀
+# Offline Compiler API 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Repo Size](https://img.shields.io/github/repo-size/techieRahul17/Offline-Compiler-api)](https://github.com/techieRahul17/Offline-Compiler-api)
