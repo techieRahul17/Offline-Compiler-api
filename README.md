@@ -327,7 +327,7 @@ MIT License © 2025 Rahul V S
 
 
 **Rahul V S**  
-GitHub: [https://github.com/techieRahul17](https://github.com/techieRahul17)
+GitHub: [Rahul V S](https://github.com/techieRahul17)
 
 
 ---
