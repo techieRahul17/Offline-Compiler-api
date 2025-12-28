@@ -344,8 +344,10 @@ GitHub: [https://github.com/techieRahul17](https://github.com/techieRahul17)
 
 If you find this project useful:
 
-- ⭐ Star the repository
-- 🐛 Report issues
-- 🤝 Submit improvements via PRs
+- Star the repository
+- Report issues
+- Submit improvements via PRs
 
-Let’s build better developer tools together 🚀
+Let’s build better developer tools together 
+
+Happy Contributing!!!
