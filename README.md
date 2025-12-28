@@ -328,6 +328,15 @@ MIT License © 2025 Rahul V S
 **Rahul V S**  
 GitHub: [https://github.com/techieRahul17](https://github.com/techieRahul17)
 
+
+---
+## Technologies & Licenses
+
+![Java](https://img.shields.io/badge/Java-17+-blue)
+![Docker](https://img.shields.io/badge/Docker-Sandboxed-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
+
 ---
 
 ## ⭐ Support
