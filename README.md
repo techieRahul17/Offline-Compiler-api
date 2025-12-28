@@ -4,7 +4,7 @@
 [![Repo Size](https://img.shields.io/github/repo-size/techieRahul17/Offline-Compiler-api)](https://github.com/techieRahul17/Offline-Compiler-api)
 [![Last Commit](https://img.shields.io/github/last-commit/techieRahul17/Offline-Compiler-api)](https://github.com/techieRahul17/Offline-Compiler-api/commits/main)
 
-A JDoodle-like, offline, multi-language compiler & judge API built with Spring Boot.  
+A offline, multi-language compiler & judge API built with Spring Boot.  
 This project compiles, runs, and judges submitted code locally with support for multiple languages, test-case evaluation, and clear error classification — useful for coding platforms, interview systems, educational labs, and offline judge environments.
 
 ---
@@ -31,19 +31,19 @@ This project compiles, runs, and judges submitted code locally with support for 
 
 ---
 
-## 🌟 Why Offline Compiler API?
+## Why Offline Compiler API?
 
 Many compiler APIs are cloud-hosted. This project focuses on:
 
-- ✅ Offline execution (no cloud required)  
-- ✅ Full control over compilation & runtime environment  
-- ✅ Test-case-based judging suitable for coding platforms  
-- ✅ Clear and actionable error types for better UX and debugging  
-- ✅ Easily extensible to new languages or sandbox techniques
+- Offline execution (no cloud required)  
+- Full control over compilation & runtime environment  
+- Test-case-based judging suitable for coding platforms  
+- Clear and actionable error types for better UX and debugging  
+- Easily extensible to new languages or sandbox techniques
 
 ---
 
-## ✨ Features
+## Features
 
 - Multi-language support:
   - Java
@@ -62,7 +62,7 @@ Many compiler APIs are cloud-hosted. This project focuses on:
 
 ---
 
-## 🏗 Architecture Overview
+## Architecture Overview
 
 High-level flow:
 
@@ -86,7 +86,7 @@ Each LanguageExecutor is responsible for:
 
 ---
 
-## 📡 API Reference
+##  API Reference
 
 ### Endpoint
 
@@ -208,7 +208,7 @@ Fields:
 
 ---
 
-## 🧪 Supported Error Types
+##  Supported Error Types
 
 | Error Type          | Description                                    |
 | ------------------- | ---------------------------------------------- |
@@ -220,7 +220,7 @@ Fields:
 
 ---
 
-## ⚙️ System Requirements
+##  System Requirements
 
 Install these on the host where you run the server:
 
@@ -240,7 +240,7 @@ Notes:
 
 ---
 
-## 🚀 Running the Project Locally
+##  Running the Project Locally
 
 Build & run with Maven:
 
@@ -277,7 +277,7 @@ A recommended approach for safer execution is to run code execution inside Docke
 
 ---
 
-## 🔐 Security Notes
+##  Security Notes
 
 - Current design executes on the host environment. Use only in trusted or controlled environments.
 - Timeouts are enforced but additional measures are recommended for production:
@@ -288,7 +288,7 @@ A recommended approach for safer execution is to run code execution inside Docke
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome — whether it is new language support, better sandboxing, improved test reporting, or documentation.
 
@@ -305,7 +305,7 @@ See `CONTRIBUTING.md` (if present) for more details.
 
 ---
 
-## 🧪 Testing
+##  Testing
 
 - Unit tests: use `mvn test`
 - Integration tests: add tests to validate compilation & runtime flows (consider using Docker in CI)
@@ -313,7 +313,7 @@ See `CONTRIBUTING.md` (if present) for more details.
 
 ---
 
-## 📜 License
+##  License
 
 This project is licensed under the MIT License.
 
@@ -323,7 +323,8 @@ MIT License © 2025 Rahul V S
 
 ---
 
-## 🙌 Author
+##  Author
+
 
 **Rahul V S**  
 GitHub: [https://github.com/techieRahul17](https://github.com/techieRahul17)
@@ -339,7 +340,7 @@ GitHub: [https://github.com/techieRahul17](https://github.com/techieRahul17)
 
 ---
 
-## ⭐ Support
+##  Support
 
 If you find this project useful:
 
